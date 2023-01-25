@@ -95,3 +95,38 @@ wget --no-check-certificate https://storage.googleapis.com/platzi-tf2/MalariaCel
 - Uso de TensorBoard y como mostrar tu proyecto al mundo entero
 
 - A tener tu modelo listo para utilizarlo como inferencia.
+
+## Introducción a TensorFlow 2.0
+
+Existen 5 principales frameworks (o librerías) de deep learning:
+
+1. Tensorflow // El que se usará en el curso
+
+2. Caffe 
+
+3. Pytorch
+
+4. Microsoft CNTK
+
+5. Gluon
+
+Se puede utilizar Tensorflow con Python, Javascript y C++
+este curso se enfocara en Python
+
+De tensorflow 1 a 2 hubo un cambio enorme
+Usando Eager Execution
+
+![como funciona](./como_funciona_tensorflow.png)
+
+Tensowflow funciona en combinacion con Keras
+
+https://www.youtube.com/watch?v=PUAdj3w3wO4&ab_channel=LexFridman
+
+Tensorflow 2.0 tiene un gran ecosistema donde puedes desplegar tus modelos
+
+![alt](./tensorflow_ecosistema.png)
+
+https://www.tensorflow.org/api_docs
+
+https://www.meetup.com/es/Tensorflow-Colombia/?_cookie-check=bU7JEs4Z9F-W14Yy
+

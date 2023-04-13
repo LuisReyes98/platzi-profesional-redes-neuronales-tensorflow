@@ -1,6 +1,8 @@
 # Curso Profesional de Redes Neuronales con TensorFlow
 
-## Redes neuronales con TensorFlow
+[Notas en Notion](https://mint-maraca-bfd.notion.site/Curso-Profesional-de-Redes-Neuronales-con-TensorFlow-c4254459a7a544f9b1fa53e30a70a529)
+
+## Redes neuronales con TensorFlow [Clase 1]
 
 Por qué debes tomar el curso
 
@@ -96,7 +98,7 @@ wget --no-check-certificate https://storage.googleapis.com/platzi-tf2/MalariaCel
 
 - A tener tu modelo listo para utilizarlo como inferencia.
 
-## Introducción a TensorFlow 2.0
+## Introducción a TensorFlow 2.0 [Clase 2]
 
 Existen 5 principales frameworks (o librerías) de deep learning:
 
@@ -130,3 +132,4 @@ https://www.tensorflow.org/api_docs
 
 https://www.meetup.com/es/Tensorflow-Colombia/?_cookie-check=bU7JEs4Z9F-W14Yy
 
+## Uso de data pipelines [Clase 3]
